@@ -1,0 +1,105 @@
+.first{
+
+    height: 700px;
+    padding-top: 50px;
+    
+}
+
+.second{
+
+    height: 700px;
+    background-color: white;
+    padding-top: 50px;
+}
+
+.box1{
+    
+    height: 350px;
+
+    
+    
+}
+
+.box1 h1{
+
+    font-size: 20px;
+    background-color: #f0fbfc;
+    height: 50px;
+    padding-top: 20px;
+}
+
+.box2{
+    
+    height: 350px;
+    
+    
+}
+
+.box2 h1{
+
+    font-size: 20px;
+    background-color: #f0fbfc;
+    height: 50px;
+    padding-top: 20px;
+}
+.box3{
+    
+    height: 350px;
+    
+    
+}
+.box3 h1{
+
+    font-size: 20px;
+    background-color: #f0fbfc;
+    height: 50px;
+    padding-top: 20px;
+}
+
+
+
+.box2 button{
+top:45%;
+position: absolute;
+left: 40%;
+
+}
+.box3 button{
+top:45%;
+position: absolute;
+left: 40%;
+
+}
+
+.box1 button{
+top:45%;
+position: absolute;
+left: 40%;
+
+}
+
+
+
+.slider{
+
+    height: 400px;
+
+}
+
+.overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(.5, .5, .5, .5); /* Dark transparent overlay */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-size: 2em;
+      text-align: center;
+      padding: 20px;
+    }
+
+

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        input{ 
+            height: 25px;
+            width: 200px;
+            margin-left: 20px;
+        }
+
+        select{
+            height: 30px;
+            width: 205px;
+            margin-left: 35px;
+        }
+        input[type="radio"] {
+            accent-color: rgb(128, 0, 49); 
+            margin-left: -45px;
+            height: 15px;
+        
+        }
+
+        input[name="High"] {
+            margin-right: -90px;
+            height: 15px;
+        }
+
+        input[name="Average"] {
+            accent-color: rgb(128, 0, 49); 
+            margin-right: -90px;
+            height: 15px;
+        }
+        input[name="Low"] {
+            accent-color: rgb(128, 0, 49); 
+            margin-right: -90px;
+            height: 15px;
+        }
+        textarea{
+            margin-left: 25px;
+        }
+
+        
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body style="background-color: aqua;">
+    <form action="" >
+        <label for=""><b>Project Name</b></label>
+            <input type="text" placeholder="Enter project name"><br><br>
+            <label for=""><b>Assigned to</b></label>
+            <select>
+                <option disabled selected value="">--Person Name--</option>
+                <option value="Mary Jane">Mary Jane</option>
+                <option value="Peter Parker">Peter Parker</option>
+                <option value="Ross Geller">Ross Geller</option>
+                <option value="Monika Geller">Monika Geller</option>
+            </select><br><br>
+            <label for=""><b>Start Date</b></label>
+        <input type="date" style="margin-left: 40px;"><br><br>
+        <label for=""><b>End Date</b></label>
+        <input type="date" style="margin-left: 45px;"><br><br>
+        <label for=""><b>Priority</b></label>
+        <input type="radio"name="High" value="High">High
+        <input type="radio"name="Average" value="Average">Average
+        <input type="radio"name="Low" value="Low">Low<br><br>
+        <label for=""><b>Description</b></label>
+        <textarea placeholder="Enter your message" rows="2" cols="30"></textarea><br>
+        <br>
+        
+        <button style="background-color: green; height: 40px ;width: 70px;text-align: center;color:white; margin-left: 60px;">submit</button>
+        <button style="background-color: blue; height: 40px ;width: 70px;text-align: center;color:white; margin-left: 20px;">Clear</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,21 @@
+
+.t{
+
+    height: 400px;
+    background-color: white;
+}
+
+.f{
+    margin-top: 20px;
+    height: 400px;
+    background-image: url("../img/bg2.jpg");
+    background-size: cover;
+    width: 100%;
+
+}
+
+.l{
+
+    height: 400px;
+    background-color:white;
+}

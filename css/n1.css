@@ -1,0 +1,11 @@
+.box1{
+
+    height: 250px;
+    background-color: white;
+}
+
+#menu1, #menu2,#menu3 ,#menu4 {
+    display: none;
+
+
+}

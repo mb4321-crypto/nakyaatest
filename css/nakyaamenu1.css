@@ -1,0 +1,703 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+@media(max-width:700px){
+ .top-menu{
+
+    height:40px !important;
+    
+    margin: auto;
+    padding: auto;
+    width: 1000px !important;
+    
+ }
+
+ .top-menu a{
+
+    font-size: 12px !important;
+    margin-top: 8px;
+    border-right: solid 1px black;
+    color: black;
+    font-weight: 350;
+    padding-left: 2px !important;
+
+    
+}
+.menu2{
+
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 120px !important;
+}
+
+
+.menu2 a{
+    margin-left: 1px !important;
+    color: grey;
+    text-decoration: none;
+    line-height: 10px;
+    font-size: 350 !important;
+
+    
+
+}
+
+.nav a img{
+
+    height: 45px !important;
+    padding-top: 10px !important;
+    width: auto !important;
+ }
+
+ .nav nav{
+
+    margin-top: 25px; 
+    z-index: 9999;
+    margin-right: 700px !important;
+    
+    
+ }
+
+.nav #navbarSupportedContent{
+
+    background-color: pink;
+ }
+
+ .nav #navbarSupportedContent form{
+   margin-right: 700px !important;
+    
+ }
+
+ .nav #navbarSupportedContent a{
+
+    line-height: 20px;
+ }
+
+ .nav #navbarSupportedContent a:hover{
+
+    background-color: #ff91bb;
+    color: black;
+ }
+
+
+ .image{
+      height:100px !important;
+      width: 100%!important;
+      margin-top: 50px;
+    
+
+
+ }
+
+.m2 a img{
+ margin-top: 0px;
+ height: 150px !important;
+ width: 100%;
+
+ }
+
+
+ .b-rad a img{
+ margin-top: 0px;
+ height: auto !important;
+ width:100%;
+ }
+
+ .b-rad a h5{
+ margin-top: 2px;
+ font-size: 30px;
+
+ }
+
+ .menu{
+
+    height: auto !important;
+    width: auto !important;
+ }
+
+ .video1{
+
+    height: auto !important;
+    width: auto !important;
+}
+
+.t{
+    height: auto !important;
+    width: auto !important;
+
+ }
+ .suncreen{
+     height: auto !important;
+     width: auto !important;
+
+ }
+.luxe{
+
+    height:auto;
+    
+    margin-top: 800px !important;
+    
+ }
+
+ .video1{
+    
+    height: auto;
+    width: auto;
+}
+
+.sale{
+    margin-top: 50px;
+    height: auto;
+    width: auto;
+}
+
+.t{
+
+    width: 100%;
+}
+
+.sunscreen{
+
+    height: auto;
+    width: auto;
+    margin-top: 20px;
+
+}
+
+.yellow{
+
+    margin-top: 10px;
+
+}
+
+.payday{
+    margin-top: 800px;
+    height: auto;
+    width: auto;
+    margin-bottom: 15px;
+
+
+}
+.luxe{
+
+    position: absolute;
+}
+
+
+.get{
+
+   margin-top: 10px;
+   padding: auto;
+
+
+}
+.get2{
+
+   height: 400px !important;
+
+
+}
+
+
+
+.i2{
+
+    margin-top: 250px;
+    height: auto;
+    width: auto;
+}
+
+.view{
+
+    
+    height: auto;
+    width: auto;
+}
+.ny{
+
+    height: auto !important;
+    width: auto !important;
+}
+
+.u1{
+   height: auto;
+   width: auto;
+
+
+}
+
+.footer1{
+   height: 350px !important;
+   width: auto;
+
+
+
+}
+.f1 p{
+
+    margin-left: 0% !important;
+}
+
+.footer2{
+
+
+    height: 700px !important;
+}
+
+.footer3{
+   height: 1000px !important;
+
+
+
+
+}
+#beauty-book{
+    
+    margin-top: 400px;
+    
+}
+
+}
+.new1{
+    
+    height: 400px;
+    background-color: blueviolet;
+
+}
+
+.bg1{
+
+    height: 400px;
+    background-color: aliceblue;
+
+}
+.bg1 p a{
+    color: gray;
+    text-decoration: none;
+
+    
+}
+.bg1  p :hover{
+    color: deeppink !important;
+    
+
+    
+}
+
+.bg1 a{
+    color: black;
+    text-decoration: none !important;
+    font-size: 15px;
+
+    
+}
+
+.bg1 a :hover{
+    color: deeppink;
+    text-decoration: none;
+    
+
+    
+}
+
+
+
+
+.bg2{
+
+    height: 400px;
+    background-color: white;
+
+}
+.bg2 p a{
+    color: gray;
+    text-decoration: none;
+
+    
+}
+.bg2  p :hover{
+    color: deeppink !important;
+    
+
+    
+}
+
+.bg2 a{
+    color: black;
+    text-decoration: none !important;
+    font-size: 15px;
+
+    
+}
+
+.bg2 a :hover{
+    color: deeppink;
+    text-decoration: none;
+    
+
+    
+}
+
+.menu2{
+
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 50px;
+}
+
+.menu2 a{
+    margin-left: 50px;
+    color: grey;
+    text-decoration: none;
+    line-height: 20px;
+    font-size: 500;
+    
+
+}
+
+
+.menu2 a:hover{
+
+    text-decoration: none;
+    color: deeppink;
+    border-bottom: deeppink solid 2px ;
+    
+}
+
+#content{
+
+    display: none;
+}
+
+#content2{
+
+    display: none;
+}
+
+
+.top-menu{
+
+    height: 40px;
+    background-image: url(../img/1stnav.jpg);
+    width: 1300px;
+}
+
+
+.top-menu a{
+
+    font-size: 16px;
+    margin-top: 8px;
+    border-right: solid 1px black;
+    border-spacing: 10px !important;
+    color: black;
+    font-weight: 30px;
+    padding-left: 30px;
+
+    
+}
+.top-menu a:hover{
+
+    color:deeppink;
+    text-decoration: none;
+}
+#border{
+border-right: none !important;
+
+}
+
+
+.nav{
+    height: 60px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.nav input{
+
+    height: 40px;
+    width: 280px !important;
+    margin-left: 150px !important;
+    border: none;
+    background-color: #f5f5f5;
+}
+
+.nav button{
+
+    border-radius: 8px !important;
+    background-color: deeppink;
+    color: white;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+.nav a{
+
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.253);
+}
+
+.image{
+
+    height: 100px;
+    width: 100%;
+}
+
+.m2{
+
+    height: 300px;
+}
+
+
+.p1{
+
+    height: 200px;
+}
+
+
+.b-rad a img{
+
+    border-radius: 10px !important;
+}
+
+.b-rad a h5{
+
+    color: black;
+    word-spacing: 2px;
+    font-size: 18px !important;
+}
+
+.b-rad a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.menu {
+    
+    height: 100px;
+
+    
+}
+.video1{
+
+    height: 400px;
+}
+
+.yellow{
+
+    height: 230px;
+    background-color:#fae8a2;
+}
+
+.luxe{
+    height: 100px;
+}
+
+.get{
+
+    height: 100px;
+}
+.mySwiper2 a{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.mySwiper2 a:hover{
+    color: black !important;
+    text-decoration: none !important;
+    font-size: 25px;
+    
+
+
+}
+
+
+ #a{
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+ #a:hover{
+    color: black !important;
+    text-decoration: none !important;
+    font-size:20px;
+    font-weight: 200;
+
+
+}
+
+.get2{
+
+height: 160px;
+
+
+}
+
+.get2 img{
+
+border-radius: 25px;
+padding-left: 5px;
+margin-top: 5px;
+
+
+}
+
+
+
+.footer1{
+
+    height: 150px;
+    background-color: #3b4147;
+}
+
+.footer2{
+
+    height: 400px;
+    background-color: #8d8d94;
+}
+
+.f1 p {
+
+    color: #f2f2f2;
+    padding-left: 80px;
+    margin-top: 30px;
+}
+
+.f2 p {
+
+    color: #f2f2f2;
+    margin-top: 30px;
+}
+
+.f3 p {
+
+    color: #f2f2f2;
+    margin-top: 30px;
+}
+
+
+
+
+
+.footer2 a{
+   font-size: 13px;
+   color: white;
+   
+}
+
+.footer2 a:hover{
+   font-size: 13px;
+   color: deeppink;
+   text-decoration: none;
+   
+}
+
+.footer3{
+
+    height: 200px;
+}
+.g1{
+
+    height: 200px;
+    background-color: red;
+}
+
+.footer3{
+
+    height: 300px;
+    background-color: #f2f2f2;
+}
+
+.footer3 p{
+
+    font-size: 15px;
+    font-weight: 500;
+    color: #3b4147;
+    text-transform: uppercase;
+}
+
+.footer3 h6{
+
+    font-size: 12px;
+    font-weight: 400;
+    color: #3b4147;
+}
+
+.bottom{
+
+    background-color: #e80071;
+    height: 100px;
+}
+
+.bottom a{
+   color: white;
+   font-size: 12px;
+   font-weight: 500;
+   padding-left: 45px;
+   padding-top: 15px;
+
+}
+.bottom a:hover{
+   color: white;
+   font-size: 12px;
+   font-weight: 500;
+   text-decoration: none;
+
+
+}
+
+.bottom p{
+   color: white;
+   font-size: 12px;
+   font-weight: 400;
+   padding-top: 15px;
+   
+
+
+}
+
+.bottom1{
+
+
+    height: 300px;
+    background-color: #f2f2f2;
+}
+.bot p{
+
+    color: grey;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.bot a{
+
+
+    color: gray;
+}
+
+.bot a:hover{
+
+
+    color: gray;
+    text-decoration: none;
+}
+
+.beauty{
+
+    height: 200px;
+}
+
+#beauty-book{
+
+    display: none;
+}
+

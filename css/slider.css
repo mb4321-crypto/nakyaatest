@@ -1,0 +1,12 @@
+.mySwiper  {
+  width: 1200px;
+  height: 100%;
+  margin: auto;
+}
+
+.mySwiper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+} 

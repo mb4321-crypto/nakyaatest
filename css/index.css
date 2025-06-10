@@ -1,0 +1,22 @@
+.mainbody{
+
+    background-color: #061c29;
+    height: 2000px;
+}
+
+.logo-area{
+
+    height: 130px;
+}
+
+.nav{
+
+    height: 80px;
+}
+
+.nav ul li a{
+
+    font-size: 21px;
+    font-style: inherit;
+    word-spacing: 5px;
+}
